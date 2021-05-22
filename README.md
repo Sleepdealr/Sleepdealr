@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there! I'm Sleepdealer 👋
+I like making keyboards and writing code!
+
+If you would like to reach me, my Discord ID is Sleepdealer#0420
+ 
+![Sleepdealr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleepdealr&show_icons=true&theme=dracula)
 
 <!--
 **Sleepdealr/Sleepdealr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
